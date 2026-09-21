@@ -1,1 +1,1 @@
-# graphOLDemo
+# graphQLDemo
